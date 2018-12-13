@@ -1,2 +1,2 @@
 # Adafruit-Circuit-Playground
-Using bash, C and Arduino, we built a very simple website that interacts with the circuit playground depending on the query string input
+Using bash, C and Arduino, we built a very simple website that interacts with the circuit playground depending on the query string input. The circuit playground will display either red, green, blue, or rainbow lights or play a sound based on what the query string of the website is. Additionally, the website will display different headings that align with the output of the circuit playground.
